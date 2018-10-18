@@ -1,0 +1,2 @@
+# softConfig
+my soft config
